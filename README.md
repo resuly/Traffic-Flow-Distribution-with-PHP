@@ -20,3 +20,5 @@
 
 ![路网信息](https://raw.githubusercontent.com/resuly/Traffic-Flow-Distribution-with-PHP/master/images/Roads.jpg)
 
+
+[参考资料](images/交通流分配.pdf)
